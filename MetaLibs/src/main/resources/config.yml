@@ -1,0 +1,12 @@
+#General config file to create
+lang: "en"
+database:
+  type: "sqlite"
+# mysql:
+#   host: "localhost"
+#   port: "3306"
+#   database: "test"
+#   username: "root"
+#   password: "root"
+  sqlite:
+    file-name: "./data/database.db"

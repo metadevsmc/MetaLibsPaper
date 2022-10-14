@@ -1,0 +1,4 @@
+name: MetaLibs_1_18
+version: '${project.version}'
+main: org.metadevs.metalibs_1_18.MetaLibs_1_18
+api-version: 1.18

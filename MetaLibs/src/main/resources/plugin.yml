@@ -1,0 +1,6 @@
+name: MetaLibs
+version: '${project.version}'
+main: org.metadevs.metalibs.MetaLibs
+api-version: 1.18
+authors: [ metadevs ]
+description: General Libraries for Metadevs 
